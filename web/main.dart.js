@@ -50126,7 +50126,7 @@ this.bF()},
 M:function(a,b){var s,r,q,p=null,o=$.ls,n=o.a
 o=o.b
 s=U.Ny("assets/background.png",C.cH,o,n)
-n=M.d4(p,p,C.o,p,o,p,p,n)
+n=M.d4(p,p,C.r,p,o,p,p,n)
 o=T.cx(p,30,p)
 r=this.d
 q=t.fQ
